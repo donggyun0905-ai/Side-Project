@@ -31,3 +31,6 @@ __pycache__/
 # === OS ===
 Thumbs.db
 .DS_Store
+
+# === 공개 전 검토 필요 (발표자료 등) ===
+AI_team6.pptx
