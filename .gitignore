@@ -1,0 +1,33 @@
+# === 이 저장소에 포함하지 않는 프로젝트 (각자 별도 저장소 보유) ===
+Clear-Commute/
+Life-Coach/
+
+# === Visual Studio / C++ 빌드 산출물 ===
+.vs/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.exe
+*.dll
+*.lib
+*.exp
+*.tlog
+*.log
+*.recipe
+*.res
+*.lastbuildstate
+*.vcxproj.user
+
+# === NuGet (MSBuild가 자동 복원) ===
+packages/
+
+# === Python ===
+__pycache__/
+*.pyc
+
+# === OS ===
+Thumbs.db
+.DS_Store
